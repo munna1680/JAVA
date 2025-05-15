@@ -1,6 +1,6 @@
 package Basic_to_Pro;
 
-public class Assignment8
+public class Assignment_8
 {
     public static void main(String[] args)
     {

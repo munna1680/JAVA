@@ -1,7 +1,7 @@
 package Basic_to_Pro;
 import java.util.Scanner;
 
-public class Assignment5
+public class Assignment_5
 {
     public static void main(String[] args)
     {
