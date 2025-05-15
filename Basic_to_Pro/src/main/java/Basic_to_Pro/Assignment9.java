@@ -13,6 +13,6 @@ public class Assignment9
         {
             fact = fact * i;
         }
-        System.out.print("Factorial of " + num1 + " is " + fact);
+        System.out.println("Factorial of " + num1 + " is " + fact);
     }
 }
