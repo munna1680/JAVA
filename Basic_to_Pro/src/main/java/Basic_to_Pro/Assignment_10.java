@@ -12,7 +12,7 @@ public class Assignment_10
         int num2 = sc.nextInt();
 
         int sum = 0;
-        for(int i = num1; i <= num2;i++)
+        for(int i = num1; i <= num2; i++)
         {
             if(i % 2 != 0)
             {
